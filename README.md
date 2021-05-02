@@ -1,5 +1,5 @@
 # reading-notes
-A test page for first lecture.
+
 
 **Growth mindset**
 A growth mindset is when you have talent and skills and working on improving them by working on them using your effort and patience.
