@@ -13,7 +13,7 @@ fixed growth mindset keeps the person in the same level even if he/ she has the 
 - Double your effort on what you are doing.
 - Avoid the fear from others success but make it a reason to go forward.
 
-To understand growth mindset more, you can check the following [blog](https://www.atlassian.com/blog/inside-atlassian/growth-mindset). :+1:
+To understand growth mindset more, you can check the following [blog](https://www.atlassian.com/blog/inside-atlassian/growth-mindset). :smiley:
 
 
 Lamis Ghanayem- [GitHub portfolio page](https://github.com/lamisghanayem).
