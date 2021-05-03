@@ -4,9 +4,9 @@ My name is Lamis Ghanayem, I hold a bachelor of Science in Computer Engineering 
 
 | Readings |      Link                                                                                    | 
 |----------|:-------------:                                                                               |
-| Read01   |  [Mastering Markdown on Github](https://guides.github.com/features/mastering-markdown/)      |  
-| Read01   |  [Github Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)     | 
-| Read02   |  [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)                                  |      
+| Read01   |  [Mastering Markdown on Github](https://lamisghanayem.github.io/Reading-notes/Read01-GithunMarkdownSyntax)      |  
+| Read01   |  [Github Markdown Syntax](https://lamisghanayem.github.io/Reading-notes/Read01-MasteringMarkdown)   | 
+| Read02   |  [Git Tutorial](https://lamisghanayem.github.io/Reading-notes/Read02-GitIntro)                                  |      
 
 Below is my Github portfolio page:
 Lamis Ghanayem- [GitHub portfolio page](https://github.com/lamisghanayem).
