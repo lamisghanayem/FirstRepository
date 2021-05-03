@@ -9,6 +9,6 @@ My name is Lamis Ghanayem, I hold a bachelor of Science in Computer Engineering 
 | Read02   |  [Git Tutorial](https://lamisghanayem.github.io/Reading-notes/Read02-GitIntro)                                  |      
 
 
-[test](https://lamisghanayem.github.io/Reading-notes/)
+[showlinktest](https://lamisghanayem.github.io/Reading-notes/)
 Below is my Github portfolio page:
 Lamis Ghanayem- [GitHub portfolio page](https://github.com/lamisghanayem).
