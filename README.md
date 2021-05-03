@@ -2,6 +2,9 @@
 
 My name is Lamis Ghanayem, I hold a bachelor of Science in Computer Engineering from Lebanese International University (LIU).
 
+Link to my Github portfolio:
+[Github portfolio](https://github.com/lamisghanayem)
+
 | Readings |      Link                                                                                    | 
 |----------|:-------------:                                                                               |
 | Read01   |  [Mastering Markdown on Github](https://lamisghanayem.github.io/Reading-notes/Read01-GithubMarkdownSyntax)      |  
