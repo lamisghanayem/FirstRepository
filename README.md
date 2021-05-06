@@ -13,6 +13,7 @@ Link to my Github portfolio:
 | Read03   |  [Structure web pages with HTML](https://lamisghanayem.github.io/Reading-notes/Read03-StructurewebpageswithHTML)                                  |  
 | Read03b   |  [Design web pages with CSS](https://lamisghanayem.github.io/Reading-notes/Read03-StructurewebpageswithHTML)                                  |  
 | Read04a   |  [Dynamic web pages with JavaScript](https://lamisghanayem.github.io/Reading-notes/Read04a)                                  |  
+| Read05   |  [Operators and Loops](https://lamisghanayem.github.io/Reading-notes/Read05)                                  | 
 
 
 
