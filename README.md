@@ -14,7 +14,8 @@ Link to my Github portfolio:
 | Read03b   |  [Design web pages with CSS](https://lamisghanayem.github.io/Reading-notes/Read03-StructurewebpageswithHTML)                                  |  
 | Read04a   |  [Dynamic web pages with JavaScript](https://lamisghanayem.github.io/Reading-notes/Read04a)                                  |  
 | Read05   |  [Operators and Loops](https://lamisghanayem.github.io/Reading-notes/Read05)                                  | 
-| Read05   |  [Functions](https://lamisghanayem.github.io/Reading-notes/Read06)                                  | 
+| Read06   |  [Functions](https://lamisghanayem.github.io/Reading-notes/Read06)                                  | 
+
 
 
 
