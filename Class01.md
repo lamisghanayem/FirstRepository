@@ -34,39 +34,29 @@ elements on the same page have the same value for their id attributes (otherwise
 Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.
 
 ## BLOCK Elements:
-Some elements will always appear to start on a new line in the browser window. These are known as block level elements. Examples of block elements are <h1>, <p>, <ul>, and <li>.
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements. Examples of block elements are h1, p , li , 
 
-## INLINE ELEMENTS:
+### INLINE ELEMENTS:
 Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
-Examples of inline elements are <a>, <b>, <em>, and <img>.
 
-## div ELEMENT:
-<div> chapter-08/grouping-block-elements.html HTML The <div> element allows you to group a set of elements together in one block-level box. For example, you might create a <div> element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a <div> element to contain comments from visitors.
 
-### The <header> and <footer>
-elements can be used for:
-● The main header or footer
-that appears at the top or
-bottom of every page on the
-site.
+### div ELEMENT:
+ The div element allows you to group a set of elements together in one block-level box. For example, you might create a div element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a div element to contain comments from visitors.
 
-### The <nav> element is used to
-contain the major navigational
-blocks on the site such as the
-primary site navigation.
+### The header and footer:
 
-### The <section> element groups
-related content together, and
-typically each section would
-have its own heading
+The main header or footer that appears at the top or bottom of every page on the site.
 
-### The purpose of the <hgroup>
-element is to group together a
-set of one or more <h1> through
-<h6> elements so that they are
-treated as one single heading. 
+### The nav element is used to:
+contain the major navigational blocks on the site such as the primary site navigation.
 
-## DESIGNING PAGES:
+### The section element groups:
+to group related content together, and typically each section would have its own heading
+
+### The purpose of the hgroup: 
+to group together a set of one or more h1 through h6 elements so that they are treated as one single heading. 
+
+## Designing pages:
 1. Site maps allow you to plan the structure of a site.
 2. Wireframes allow you to organize the information that will need to go on each page.
 3. Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
@@ -74,10 +64,10 @@ treated as one single heading.
 5. You can use grouping and similarity to help simplify the information you present.
 
 
-# JAVA SCRIPT INTRO:
+### JAVA SCRIPT INTRO:
+
+
 1. A script is a series of instructions that the computer can follow in order to achieve a goal. 
 2. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). 
 3. Programmers write code to make sure when an event occur, apply this code.
-4. Webpages are interactive when we write code that make sense which will allow the user to interact with the web page.To approach writing a script, break down your goal into
-a series of tasks and then work out each step needed
-to complete that task (a flowchart can help). 
+4. Webpages are interactive when we write code that make sense which will allow the user to interact with the web page. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). 
