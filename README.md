@@ -21,18 +21,18 @@ Link to my Github portfolio:
 
 | Readings 201 |      Link                                  | 
 |----------    |:-------------:                             |
-| Class01       |  (https://lamisghanayem.github.io/Reading-notes/Class01)                                          |  
-| Read02       |                                            | 
-| Read03       |                                            |  
-| Read04       |                                            |  
-| Read05       |                                            | 
-| Read06       |                                            |  
-| Read07       |                                            | 
-| Read08       |                                            |  
-| Read09       |                                            |  
-| Read010      |                                            | 
-| Read011      |                                            |
-| Read012      |                                            |
-| Read013      |                                            |
-| Read014      |                                            |
-| Read015      |                                            |  
+| Class01       |  [Intro to HTML,JS](https://lamisghanayem.github.io/Reading-notes/Class01)                                          |  
+| Class02       |                                            | 
+| Class03       |                                            |  
+| Class04       |                                            |  
+| Class05       |                                            | 
+| Class06       |                                            |  
+| Class07       |                                            | 
+| Class08       |                                            |  
+| Class09       |                                            |  
+| Class10      |                                            | 
+| Class11      |                                            |
+| Class12      |                                            |
+| Class13      |                                            |
+| Class14      |                                            |
+| Class15      |                                            |  
