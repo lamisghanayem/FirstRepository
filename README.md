@@ -21,7 +21,7 @@ Link to my Github portfolio:
 
 | Readings 201 |      Link                                  | 
 |----------    |:-------------:                             |
-| Read01       |                                            |  
+| Class01       |  (https://lamisghanayem.github.io/Reading-notes/Class01)                                          |  
 | Read02       |                                            | 
 | Read03       |                                            |  
 | Read04       |                                            |  
