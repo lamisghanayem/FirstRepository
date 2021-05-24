@@ -23,7 +23,7 @@ Link to my Github portfolio:
 |----------     |:-------------:                             |
 | Class01       |  [Intro to HTML,JS](https://lamisghanayem.github.io/Reading-notes/Class01)                                                     |  
 | Class02       |  [Basics of HTML, CSS & JS](https://lamisghanayem.github.io/Reading-notes/Class02)                                          |
-| Class03       |                                            |  
+| Class03       |     [List and Boxes in HTML & CSS](https://lamisghanayem.github.io/Reading-notes/Class03)                                       |  
 | Class04       |                                            |  
 | Class05       |                                            |
 | Class06       |                                            |  
