@@ -1,3 +1,24 @@
+##Links in HTML:
+ allow you to move fromone web page to another.
+####types of links:
+● Links from one website to another
+● Links from one page to another on the same website
+● Links from one part of a web page to another part of the
+same page
+● Links that open in a new browser window
+● Links that start up your email program and address a new
+email to someone.
+
+Links are created using the -a- element. Users can click on anything between the opening -a- tag and the closing -/a- tag. You specify which page you want to link to using the href attribute.
+
+
+
+
+
+
+
+
+
 ##Functions and methods in Java
 
 Programmers use functions, methods, and objects to organize their code.
