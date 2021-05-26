@@ -1,5 +1,6 @@
 ## Links in HTML:
  allow you to move fromone web page to another.
+ 
 #### types of links:
 ● Links from one website to another
 ● Links from one page to another on the same website
