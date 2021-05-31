@@ -27,7 +27,7 @@ Link to my Github portfolio:
 | Class04       |  [HTML Links, JS Functions, and Intro to CSS Layout](https://lamisghanayem.github.io/Reading-notes/Class04)                                                     |  
 | Class05       |  [HTML Colors, Text, Images, GIF VS PNG VS JPEG ](https://lamisghanayem.github.io/Reading-notes/Class05)                                        |
 | Class06       | [Objects, DOM](https://lamisghanayem.github.io/Reading-notes/Class06)                                         |  
-| Class07       |  [Objects, DOM](https://lamisghanayem.github.io/Reading-notes/Class07)                                           |
+| Class07       |  [Tables in HTML Functions, Methods, and Objects](https://lamisghanayem.github.io/Reading-notes/Class07)                                           |
 | Class08       |  [Layout ](https://lamisghanayem.github.io/Reading-notes/Class08)                                           |  
 | Class09       |                                            |  
 | Class10       |                                            |
