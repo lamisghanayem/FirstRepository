@@ -28,7 +28,7 @@ Link to my Github portfolio:
 | Class05       |  [HTML Colors, Text, Images, GIF VS PNG VS JPEG ](https://lamisghanayem.github.io/Reading-notes/Class05)                                        |
 | Class06       | [Objects, DOM](https://lamisghanayem.github.io/Reading-notes/Class06)                                         |  
 | Class07       |  [Objects, DOM](https://lamisghanayem.github.io/Reading-notes/Class07)                                           |
-| Class08       |                                            |  
+| Class08       |  [Layout ](https://lamisghanayem.github.io/Reading-notes/Class08)                                           |  
 | Class09       |                                            |  
 | Class10       |                                            |
 | Class11       |                                            |
