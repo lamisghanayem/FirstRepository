@@ -29,7 +29,7 @@ Link to my Github portfolio:
 | Class06       | [Objects, DOM](https://lamisghanayem.github.io/Reading-notes/Class06)                                         |  
 | Class07       |  [Tables in HTML Functions, Methods, and Objects](https://lamisghanayem.github.io/Reading-notes/Class07)                                           |
 | Class08       |  [Layout ](https://lamisghanayem.github.io/Reading-notes/Class08)                                           |  
-| Class09       |                                            |  
+| Class09       |  [Layout ](https://lamisghanayem.github.io/Reading-notes/Class09)                                           |  
 | Class10       |                                            |
 | Class11       |                                            |
 | Class12       |                                            |
