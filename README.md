@@ -31,7 +31,7 @@ Link to my Github portfolio:
 | Class08       |  [Layout ](https://lamisghanayem.github.io/Reading-notes/Class08)                                           |  
 | Class09       |  [Forms in HTML, Events in JS ](https://lamisghanayem.github.io/Reading-notes/Class09)                                           |  
 | Class10       |  [Debugging in JS ](https://lamisghanayem.github.io/Reading-notes/Class10)                                          |
-| Class11       |                                            |
+| Class11       |  [Images and Practical Information ](https://lamisghanayem.github.io/Reading-notes/Class11)                                          |
 | Class12       |                                            |
 | Class13       |                                            |
 | Class14       |                                            |
