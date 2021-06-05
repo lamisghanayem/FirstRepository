@@ -17,3 +17,9 @@
 7. The purpose of the hgroup element is to group together a set of one or more h1 through h6 elements so that they are treated as one single heading. 
 8. the figure element can be used to contain any content that is referenced from the main flow of an article (not just images). 
 
+# Practical Info
+1. people might search on keywords  to find your site which can appear in order to improve its findability.
+2. SEO Search engine optimization helps visitors find your sites when using search engines.
+3. Determining which keywords to use on your site can be one of the hardest tasks when you start to think about SEO. Here are six steps that will help you identify the right keywords and phrases for your site.
+4. To put your site on the web, you will need to obtain a domain name and web hosting.
+5. Analytics tools such as Google Analytics allow you to see how many people visit your site, how they find it, and what they do when they get there
