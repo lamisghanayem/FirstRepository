@@ -1,6 +1,6 @@
 #  Chart.js
 
-### a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page. It’s a well documented plugin that makes using all kinds of bar charts, line charts, pie charts and more, incredibly easy.
+#### a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page. It’s a well documented plugin that makes using all kinds of bar charts, line charts, pie charts and more, incredibly easy.
 
 ## Drawing a line chart
 1. To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart.
@@ -11,6 +11,6 @@
 
 # canvas element
 
-#### the canvas element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high.
-#### The canvas element can be styled just like any normal image (margin, border, background…). These rules, however, don't affect the actual drawing on the canvas.
- #### The canvas element has a method called getContext(), used to obtain the rendering context and its drawing functions.
+1. the canvas element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high.
+2. The canvas element can be styled just like any normal image (margin, border, background…). These rules, however, don't affect the actual drawing on the canvas.
+3. The canvas element has a method called getContext(), used to obtain the rendering context and its drawing functions.
