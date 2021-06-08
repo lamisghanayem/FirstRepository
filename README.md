@@ -34,5 +34,6 @@ Link to my Github portfolio:
 | Class11       |  [Images and Practical Information ](https://lamisghanayem.github.io/Reading-notes/Class11)                                          |
 | Class12       | [ Chart.js API ](https://lamisghanayem.github.io/Reading-notes/Class12)                                             |
 | Class13       | [ Local Storage ](https://lamisghanayem.github.io/Reading-notes/Class13)                                            |
-| Class14       |                                            |
+| Class14a      |  [ CSS animations ](https://lamisghanayem.github.io/Reading-notes/Class14a)                                                |
+| Class14b      |  [ What Google Learned From Its Quest to Build the Perfect Team ](https://lamisghanayem.github.io/Reading-notes/Class14b)                                                |
 | Class15       |                                            |  
