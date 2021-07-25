@@ -36,4 +36,11 @@ Link to my Github portfolio:
 | Class13       | [ Local Storage ](https://lamisghanayem.github.io/Reading-notes/Class13)                                            |
 | Class14a      |  [ CSS animations ](https://lamisghanayem.github.io/Reading-notes/Class14a)                                                |
 | Class14b      |  [ What Google Learned From Its Quest to Build the Perfect Team ](https://lamisghanayem.github.io/Reading-notes/Class14b)                                                |
-| Class15       |                                            |  
+
+
+**_Code 301 Reading Notes_**
+
+| Readings 301  |      Link                                  |
+|----------     |:-------------:                             |
+| Class01       |  [](https://lamisghanayem.github.io/Reading-notes/301/class01)   
+| Class02       |  [State and Props](https://lamisghanayem.github.io/Reading-notes/301/class02)                   
